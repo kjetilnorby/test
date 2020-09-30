@@ -1,6 +1,6 @@
 name: example-environment
 channels:
-  - example
+  - conda-forge
 dependencies:
   - numpy
   - matplotlib
