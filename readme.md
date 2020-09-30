@@ -1,3 +1,5 @@
+environment.yml
+
 name: example-environment
 channels:
   - conda-forge
