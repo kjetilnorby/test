@@ -1,0 +1,7 @@
+name: example-environment
+channels:
+  - example
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
