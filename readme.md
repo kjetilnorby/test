@@ -1,9 +1,0 @@
-environment.yml
-
-name: example-environment
-channels:
-  - conda-forge
-dependencies:
-  - numpy
-  - matplotlib
-  - pandas
